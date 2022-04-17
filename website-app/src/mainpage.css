@@ -1,0 +1,126 @@
+#bg{
+    background-image: url("./airplane_bg_3.png");
+}
+
+.navbar1{
+    position: absolute;
+  width: 1932px;
+  height: 50px;
+  left: 0px;
+  top: 0px;
+  background: #4845CA;
+  }
+  
+  
+  .navigation-bar
+  {
+    background-color: #4845CA;
+    position: realtive;
+  width: 2260px;
+  height: 75px;
+  left: 50px;
+  top: 20px;
+  }
+  
+  #companyname{
+    color: white;
+    font-weight: bold;
+  }
+
+  .home_page{
+    position: absolute;
+    width: 6000px;
+    height: 699px;
+    left: 0px;
+  
+  }
+#home_page_des{
+    position: relative;
+    background-color: azure;
+    top: 200px ;
+    height: 250px;
+    left: 77px;
+    width: 548.27px;
+
+    background: rgba(196,196,196,0);
+    border-radius: 30px;
+    font-size: xx-large;
+    font-weight: bold;
+    color: white;
+
+
+
+}
+
+
+.from{
+    position:relative;
+    top: 500px;
+    left:150px;
+}
+.col-2{
+    top: 10px;
+}
+.from_place{
+    font-size: xx-large;
+    font-weight: bold;
+    color: white;
+    
+}
+.to{
+    position: relative;
+    top:420px;
+    left:600px;
+
+}
+.to_place{
+    
+        font-size: xx-large;
+        font-weight: bold;
+        color: white;
+        
+}
+.col-3{
+    top:10px;
+}
+
+
+.btn{
+    position:relative;
+    font-size: x-large;
+        font-weight: bold;
+        color: white;
+        top: 400px;
+        left: 1200px;
+
+}
+.Date-of-Departure{
+    left: 975px;
+    top:300px;
+    position: relative;
+
+
+}
+.dep_date{
+    font-size: xx-large;
+    font-weight: bold;
+    color: white;   
+}
+
+#details{
+    top:250px;
+    color: white;
+    left:1350px; 
+}
+
+
+.input_group{
+    background-color: white;
+}
+.button-group{
+    position: relative;
+    top:-460px;
+}
+#login{
+    left:1500px
+}

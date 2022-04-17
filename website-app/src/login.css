@@ -1,0 +1,35 @@
+.homePage{
+    top:302px;
+    position: absolute;
+    width:300%;
+    height: 1000px;
+    left:0px;
+}
+#heading_login{
+    position: relative;
+}
+.credentials{
+    top:400px;
+    position: relative;
+    text-align: center;
+
+}
+#login{
+    color: white;
+}
+#password{
+    color: white;
+}
+.login_button{
+    top:200px;
+    margin-left:-50px;
+
+}
+
+.log{
+    top:-20px;
+    position:relative;
+    font-size: 200px;
+    color: yellowgreen;
+
+}

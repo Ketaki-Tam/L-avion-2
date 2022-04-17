@@ -1,0 +1,32 @@
+#about_us{
+    font-size: xx-large;
+    color: black;
+    top: 100px;
+}
+
+.text{
+    text-align: center;
+    font-size: x-large;
+}
+
+
+.img_logo{
+    top: 300px;
+    width: 0px;
+    height: 75px;
+}
+
+#home{
+    top: 20px;
+    left:860px;
+    
+}
+
+#about{
+    background-color: #FFFFFF;
+     width: 1000px;
+     margin: 50px auto;
+     border: 5px solid blue;
+}
+
+

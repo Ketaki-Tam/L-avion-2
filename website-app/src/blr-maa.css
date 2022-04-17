@@ -1,0 +1,48 @@
+.Heading{
+position: absolute;
+width: 421px;
+height: 84px;
+left: 497px;
+top: 30px;
+font-family: 'Iceberg';
+font-style: normal;
+font-weight: 400;
+font-size: 65px;
+line-height: 79px;
+color: #000000;
+
+}
+#indigo
+{
+    top:35px;
+    height: 50px;
+    width: 50px;
+    left:20px;
+}
+#flight_no{
+    left:1000px;
+    color: blue;
+}
+
+#table{
+    padding: 3px;
+    margin: 5px;
+    border: 5px green;
+}
+#price{
+    color: red;
+}
+#button{
+    left: -1200px;
+    top: -400px;
+}
+
+#bg{
+    background-image: url('./plain_blue.webp') !important ;
+    background-repeat: stretch !important;
+}
+ #back{
+     top: -300px;
+ }
+
+

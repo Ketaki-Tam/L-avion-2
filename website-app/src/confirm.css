@@ -1,0 +1,26 @@
+.deatils{
+    left :100px;
+    top:250px;
+    position: relative;
+    font-family: Inter ;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 73px;
+    font-weight: bold;
+
+}
+#home_icon{
+    position: absolute;
+    width:82px;
+    height: 76px;
+    left:103px;
+    top:69px;
+}
+#home_button{
+    top:-100px;
+    left:10px;
+    position: relative;
+    width: 150px;
+    height: 60px;
+    border-radius: 20px;
+}

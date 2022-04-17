@@ -1,0 +1,24 @@
+.homePage2{
+    top:0px;
+    position: absolute;
+    width:300%;
+    height: 1000px;
+    left:0px;
+}
+
+.credentials2{
+    top:300px;
+    font-size: x-large;
+    position: relative;
+    text-align: center;
+
+}
+
+
+.signup{
+    position:relative;
+    font-size: larger;
+    font-weight: bold;
+    color: black;
+    top: 100px;
+}
