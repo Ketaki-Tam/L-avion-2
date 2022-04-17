@@ -14,7 +14,7 @@ A website that helps users book flights online .User need to enter their depatur
 
 # Basic Structure
 1) Once you go to the above mentioned terminal you will find four main folders namely build,node_modules,public,src along with three other files namely package.json,package-lock.json,README.md.
-2) The build folder represents the path to the final production build.This folder will be created after the ```npn run build``` command.
+2) The build folder represents the path to the final production build.This folder will be created after the ```npm run build``` command.
 3) The node_modules is the repository of modules which are used inside the project.
 4) Public folder contains static files such as index.html and javascript library files,images etc which we dont want to be processed by the webpack.
 5) Src folder contains all the .js and .css files that are used in developing  the webpage.
